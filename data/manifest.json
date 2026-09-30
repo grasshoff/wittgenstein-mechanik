@@ -1,0 +1,346 @@
+{
+ "slug": "wittgenstein-mechanik",
+ "facts": {
+  "docs_total": {
+   "value": 6,
+   "source": "volumes.yaml of both collections"
+  },
+  "prim_docs": {
+   "value": 2,
+   "source": "wittgenstein-mechanik/config/volumes.yaml"
+  },
+  "sec_docs": {
+   "value": 4,
+   "source": "wittgenstein-mechanik-sec/config/volumes.yaml"
+  },
+  "pages_Hertz1894": {
+   "value": 352,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_Hertz1894": {
+   "value": 352,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_Hertz1894": {
+   "value": 13,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "words_Hertz1894": {
+   "value": 83697,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "year_Hertz1894": {
+   "value": 1894,
+   "source": "bibliography.yaml"
+  },
+  "pages_Reuleaux1875": {
+   "value": 685,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_Reuleaux1875": {
+   "value": 685,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_Reuleaux1875": {
+   "value": 12,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "words_Reuleaux1875": {
+   "value": 191675,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "year_Reuleaux1875": {
+   "value": 1875,
+   "source": "bibliography.yaml"
+  },
+  "pages_Grasshoff1993": {
+   "value": 25,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_Grasshoff1993": {
+   "value": 25,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_Grasshoff1993": {
+   "value": 0,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "words_Grasshoff1993": {
+   "value": 7156,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "year_Grasshoff1993": {
+   "value": 1993,
+   "source": "bibliography.yaml"
+  },
+  "pages_Grasshoff1997": {
+   "value": 36,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_Grasshoff1997": {
+   "value": 36,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_Grasshoff1997": {
+   "value": 0,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "words_Grasshoff1997": {
+   "value": 12193,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "year_Grasshoff1997": {
+   "value": 1997,
+   "source": "bibliography.yaml"
+  },
+  "pages_Grasshoff1998": {
+   "value": 27,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_Grasshoff1998": {
+   "value": 27,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_Grasshoff1998": {
+   "value": 0,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "words_Grasshoff1998": {
+   "value": 12963,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "year_Grasshoff1998": {
+   "value": 1998,
+   "source": "bibliography.yaml"
+  },
+  "pages_Grasshoff2004": {
+   "value": 28,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_Grasshoff2004": {
+   "value": 28,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_Grasshoff2004": {
+   "value": 0,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "words_Grasshoff2004": {
+   "value": 9675,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "year_Grasshoff2004": {
+   "value": 2004,
+   "source": "bibliography.yaml"
+  },
+  "pages_total": {
+   "value": 1153,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "done_total": {
+   "value": 1153,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "open_total": {
+   "value": 0,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "blank_total": {
+   "value": 25,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "prim_pages": {
+   "value": 1037,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "sec_pages": {
+   "value": 116,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "prim_done": {
+   "value": 1037,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "prim_words": {
+   "value": 275372,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "pages_kimi": {
+   "value": 920,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "pages_gemini": {
+   "value": 203,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "pages_no_ocr": {
+   "value": 30,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "review_required_prim": {
+   "value": 174,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "review_agreed_prim": {
+   "value": 833,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "sec_model_note": {
+   "value": "Die vier Aufsätze waren schon in der Sammlung „grasshoff“ gelesen (fastapple-Vision und kimi-k2.7-code:cloud); ihre Seiten sind kopiert, nicht neu gelesen.",
+   "source": "wittgenstein-mechanik-sec/config/volumes.yaml (header comment)"
+  },
+  "hertz_n_Grasshoff1993": {
+   "value": 59,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (word Hertz, all forms of the name)"
+  },
+  "hertz_pg_Grasshoff1993": {
+   "value": 18,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hertz_n_Grasshoff1997": {
+   "value": 120,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (word Hertz, all forms of the name)"
+  },
+  "hertz_pg_Grasshoff1997": {
+   "value": 32,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hertz_n_Grasshoff1998": {
+   "value": 104,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (word Hertz, all forms of the name)"
+  },
+  "hertz_pg_Grasshoff1998": {
+   "value": 22,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hertz_n_Grasshoff2004": {
+   "value": 51,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (word Hertz, all forms of the name)"
+  },
+  "hertz_pg_Grasshoff2004": {
+   "value": 15,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hertz_n_papers": {
+   "value": 334,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "reuleaux_n_papers": {
+   "value": 0,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (word Reuleaux)"
+  },
+  "petzoldt_n_papers": {
+   "value": 17,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (word Petzoldt)"
+  },
+  "p_1993_charlottenburg": {
+   "value": 6,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_1997_abstract": {
+   "value": 3,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_1998_confession": {
+   "value": 2,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_1997_misunderstandings": {
+   "value": 4,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_1997_masspart": {
+   "value": 21,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_1998_masspart": {
+   "value": 7,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_1998_6_3432": {
+   "value": 9,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_2004_jolles": {
+   "value": 12,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_2004_petzoldt": {
+   "value": 12,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_hertz_scheinbilder": {
+   "value": 37,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_hertz_grundgesetz": {
+   "value": 198,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_hertz_definitionen": {
+   "value": 90,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_hertz_kraefte": {
+   "value": 13,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_reuleaux_paar": {
+   "value": 15,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "p_reuleaux_kette": {
+   "value": 15,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hd_hertz_scheinbilder": {
+   "value": "",
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hd_hertz_definitionen": {
+   "value": "Erstes Buch. 54",
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hd_hertz_grundgesetz": {
+   "value": "Zweites Buch. 162",
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hd_reuleaux_paar": {
+   "value": "VORREDE. XI",
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "hd_reuleaux_kette": {
+   "value": "VORREDE. XI",
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "figures_Hertz1894": {
+   "value": 4,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (figure elements)"
+  },
+  "figures_Reuleaux1875": {
+   "value": 591,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (figure elements)"
+  },
+  "fn_Hertz1894": {
+   "value": 19,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "fn_Reuleaux1875": {
+   "value": 276,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "tables_Reuleaux1875": {
+   "value": 22,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
+  },
+  "math_Hertz1894": {
+   "value": 2716,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (paired $ delimiters)"
+  },
+  "math_Reuleaux1875": {
+   "value": 3445,
+   "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (paired $ delimiters)"
+  }
+ },
+ "notes": []
+}
