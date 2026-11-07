@@ -42,11 +42,11 @@
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "blank_Reuleaux1875": {
-   "value": 12,
+   "value": 13,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "words_Reuleaux1875": {
-   "value": 191675,
+   "value": 190911,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "year_Reuleaux1875": {
@@ -146,7 +146,7 @@
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "blank_total": {
-   "value": 25,
+   "value": 26,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "prim_pages": {
@@ -162,27 +162,27 @@
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "prim_words": {
-   "value": 275372,
+   "value": 274608,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "pages_kimi": {
-   "value": 920,
+   "value": 825,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "pages_gemini": {
-   "value": 203,
+   "value": 190,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "pages_no_ocr": {
-   "value": 30,
+   "value": 31,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "review_required_prim": {
-   "value": 174,
+   "value": 169,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "review_agreed_prim": {
-   "value": 833,
+   "value": 837,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "sec_model_note": {
@@ -318,7 +318,7 @@
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (figure elements)"
   },
   "figures_Reuleaux1875": {
-   "value": 591,
+   "value": 589,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (figure elements)"
   },
   "fn_Hertz1894": {
@@ -326,7 +326,7 @@
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "fn_Reuleaux1875": {
-   "value": 276,
+   "value": 272,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml"
   },
   "tables_Reuleaux1875": {
@@ -338,7 +338,7 @@
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (paired $ delimiters)"
   },
   "math_Reuleaux1875": {
-   "value": 3445,
+   "value": 3490,
    "source": "wittgenstein-mechanik*/<doc>/pages/page_*/page_*.xml (paired $ delimiters)"
   }
  },
